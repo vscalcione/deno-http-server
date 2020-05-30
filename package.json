@@ -1,0 +1,12 @@
+{
+  "name": "deno-https-server",
+  "version": "1.0.0",
+  "description": "deno http server",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "deno run --allow-net --allow-read index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
